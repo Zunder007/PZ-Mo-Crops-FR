@@ -1,0 +1,28 @@
+Recipes_FR = {
+    Recipe_Open_Packet_of_Avocado_Seeds = "Ouvrir Sac de Graines d'Avocat",
+    Recipe_Put_Avocado_Seeds_in_Packet = "Mettre Graines d'Avocat dans le Sac",
+
+    Recipe_Open_Packet_of_Pepper_Seeds = "Ouvrir Sac de Graines de Poivron",
+    Recipe_Put_Pepper_Seeds_in_Packet = "Mettre Graines de Poivron dans le Sac",
+
+    Recipe_Open_Packet_of_Corn_Seeds = "Ouvrir Sac de Graines de Maïs",
+    Recipe_Put_Corn_Seeds_in_Packet = "Mettre Graines de Maïs dans le Sac",
+
+    Recipe_Open_Packet_of_Eggplant_Seeds = "Ouvrir Sac de Graines d'Aubergine",
+    Recipe_Put_Eggplant_Seeds_in_Packet = "Mettre Graines d'Aubergine dans le Sac",
+
+    Recipe_Open_Packet_of_Leek_Seeds = "Ouvrir Sac de Graines de Poireau",
+    Recipe_Put_Leek_Seeds_in_Packet = "Mettre Graines de Poireau dans le Sac",
+
+    Recipe_Open_Packet_of_Lettuce_Seeds = "Ouvrir Sac de Graines de Salade",
+    Recipe_Put_Lettuce_Seeds_in_Packet = "Mettre Graines de Salade dans le Sac",
+
+    Recipe_Open_Packet_of_Onion_Seeds = "Ouvrir Sac de Graines d'Oignon",
+    Recipe_Put_Onion_Seeds_in_Packet = "Mettre Graines d'Oignon dans le Sac",
+
+    Recipe_Open_Packet_of_Watermelon_Seeds = "Ouvrir Sac de Graines de Pastèque",
+    Recipe_Put_Watermelon_Seeds_in_Packet = "Mettre Graines de Pastèque dans le Sac",
+
+    Recipe_Open_Packet_of_Zucchini_Seeds = "Ouvrir Sac de Graines de Courgette",
+    Recipe_Put_Zucchini_Seeds_in_Packet = "Mettre Graines de Courgette dans le Sac",
+}
