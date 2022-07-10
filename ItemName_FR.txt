@@ -1,0 +1,29 @@
+ ItemName_FR = {
+    -- seed names
+    MCM.Avocadoseed = "Graine d'Avocat",
+    MCM.AvocadoBagSeed = "Sac de Graines d'Avocat",
+
+    MCM.Pepperseed = "Graine de Poivron",
+    MCM.PepperBagSeed = "Sac de Graines de Poivron",
+
+    MCM.Cornseed = "Graine de Maïs",
+    MCM.CornBagSeed = "Sac de Graines de Maïs",
+
+    MCM.Eggplantseed = "Graine d'Aubergine",
+    MCM.EggplantBagSeed = "Sac de Graines d'Aubergine",
+
+    MCM.Leekseed = "Graine de Poireau",
+    MCM.LeekBagSeed = "Sac de Graines de Poireau",
+
+    MCM.Lettuceseed = "Graine de Salade",
+    MCM.LettuceBagSeed = "Sac de Graines de Salade",
+
+    MCM.Onionseed = "Graine d'Oignon",
+    MCM.OnionBagSeed = "Sac de Graines d'Oignon",
+
+    MCM.Watermelonseed = "Graine de Pastèque",
+    MCM.WatermelonBagSeed = "Sac de Graines de Pastèque",
+
+    MCM.Zucchiniseed = "Graine de Courgette",
+    MCM.ZucchiniBagSeed = "Sac de Graines de Courgette",
+ }
